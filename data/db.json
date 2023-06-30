@@ -2,18 +2,23 @@
   "items": [
     {
       "id": 1,
-      "checked": false,
-      "item": "Almonds, Unsalted, in the blue bag"
+      "checked": true,
+      "item": "Appel"
     },
     {
       "id": 2,
       "checked": false,
-      "item": "Pizza"
+      "item": "Manderijn"
     },
     {
       "id": 3,
+      "checked": true,
+      "item": "Peer"
+    },
+    {
+      "id": 4,
       "checked": false,
-      "item": "Bread"
+      "item": "Snoep"
     }
   ]
 }
